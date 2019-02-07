@@ -1,6 +1,6 @@
-###Linux-Server-Configuration-Project
+#Linux-Server-Configuration-Project
 
-###Project OverView
+#Project OverView
 
 A baseline installation of a Linux server and prepare it to host web applications. 
 As well as Securing server from a number of attack vectors,
