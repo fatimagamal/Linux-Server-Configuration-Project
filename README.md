@@ -1,4 +1,4 @@
-# Linux-Server-Configuration-Project###Linux-Server-Configuration-Project
+###Linux-Server-Configuration-Project
 ###Project OverView
 
 A baseline installation of a Linux server and prepare it to host web applications. 
